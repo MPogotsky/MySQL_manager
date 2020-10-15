@@ -3,11 +3,11 @@ Simple app to learn basics of mysql with C++.
 
 
 # Libraries used:
+* C++ STL
 * C++ Driver for MySQL (Connector/C++)
 * MariaDB Connector/C
 
 **Mysql connector:**
-
 > https://www.mysql.com/products/connector/
 
 **MariaDB connector:**
