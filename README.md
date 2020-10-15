@@ -1,5 +1,4 @@
 # MySQL_manager (Linux OS)
-
 Simple app to learn basics of mysql with C++.
 
 # Libraries used:
